@@ -1,0 +1,14 @@
+pyproject.toml
+src/face_recognition.egg-info/PKG-INFO
+src/face_recognition.egg-info/SOURCES.txt
+src/face_recognition.egg-info/dependency_links.txt
+src/face_recognition.egg-info/requires.txt
+src/face_recognition.egg-info/top_level.txt
+src/fer_cnn/__init__.py
+src/fer_cnn/config.py
+src/fer_cnn/dataset.py
+src/fer_cnn/heatmaps.py
+src/fer_cnn/landmarks.py
+src/fer_cnn/model.py
+src/fer_cnn/super_resolution.py
+src/fer_cnn/train.py

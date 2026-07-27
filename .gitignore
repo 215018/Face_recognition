@@ -1,0 +1,34 @@
+# Python environment
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# uv cache
+.uv-cache/
+
+# Dataset and generated heatmaps
+data/
+
+# External models and trained checkpoints
+models/
+checkpoints/
+*.pt
+*.pth
+*.pb
+
+# Outputs
+outputs/
+*.png
+*.jpg
+*.jpeg
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
