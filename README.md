@@ -309,6 +309,3 @@ This gives the CNN more information about expression-related shape changes.
 
 M. K. Rusia and D. K. Singh, "An efficient CNN approach for facial expression recognition with some measures of overfitting," 2021. DOI: `10.1007/s41870-021-00803-x`
 =======
-# Face_recognition
-This project implements facial expression recognition on the FER-2013 dataset using a baseline CNN model and a proposed landmark-guided CNN extension. The baseline follows `Proposed_Model_2` from the reference paper, while the extension adds MediaPipe facial landmark heatmaps as a second input channel.
->>>>>>> 533681549a60c05144585d3ffb2b999d30b3ec48
